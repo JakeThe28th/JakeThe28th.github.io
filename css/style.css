@@ -1,0 +1,43 @@
+body {background-color: black;}
+pre {color: #32e810}
+h1 {color: gray}
+p { color: white}
+a { color: #9527e8}
+
+#ascii_blogtext {
+	position: fixed;
+	top: 0px;
+	margin-left: 50vw;
+	}
+	
+#ascii_blogtext_column {
+	position: fixed;
+	top: 0px;
+	margin-left: 50vw;
+    background: #021708;
+    width: 50vw;
+	}
+	
+#greentext {
+	color: #32e810;
+	font-family: monospace;
+	margin-left: 25px;
+	font-size: 110%
+	}
+	
+#dull_greentext {
+	color: green;
+	font-family: monospace;
+	margin-left: 25px;
+	font-size: 110%
+	}
+	
+#top_0px { position:absolute; top: 0px }
+
+#mild-purple { color: #9527e8 }
+
+#centered_div {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	}
